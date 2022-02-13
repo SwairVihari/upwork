@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/upwork/static/css/main.db9f965e.css",
+    "main.js": "/upwork/static/js/main.dcd0ae23.js",
+    "static/media/upwork_client.PNG": "/upwork/static/media/upwork_client.8fa556716c9c630825f9.PNG",
+    "static/media/background_img.png": "/upwork/static/media/background_img.206c4da063cd35d53093.png",
+    "static/media/two_people.jpg": "/upwork/static/media/two_people.4762604e3272aec4e0e6.jpg",
+    "static/media/review3.png": "/upwork/static/media/review3.188ee882514acb638249.png",
+    "static/media/review2.png": "/upwork/static/media/review2.af31ceab888c11ac3ce7.png",
+    "static/media/review1.png": "/upwork/static/media/review1.f990317741f8ed9de096.png",
+    "index.html": "/upwork/index.html",
+    "main.db9f965e.css.map": "/upwork/static/css/main.db9f965e.css.map",
+    "main.dcd0ae23.js.map": "/upwork/static/js/main.dcd0ae23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9f965e.css",
+    "static/js/main.dcd0ae23.js"
+  ]
+}
